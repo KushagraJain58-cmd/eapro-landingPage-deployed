@@ -19,9 +19,9 @@ const HeroSection: React.FC = () => {
         </div>
 
         <h1 className="text-6xl md:text-8xl font-bold text-black mb-8 leading-tight">
-          The Future of Solar,
+          Powering Tomorrow, 
           <span className="bg-gradient-to-r from-emerald-600 to-blue-600 bg-clip-text text-transparent">
-              Today
+              Starting Now
           </span>
         </h1>
 
